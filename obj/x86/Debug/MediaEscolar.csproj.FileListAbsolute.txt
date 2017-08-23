@@ -1,0 +1,5 @@
+/Users/reginaldomorikawa/Documents/Curso Senac Mobile/Projetos/MediaEscolar/obj/x86/Debug/MediaEscolar.csproj.CoreCompileInputs.cache
+/Users/reginaldomorikawa/Documents/Curso Senac Mobile/Projetos/MediaEscolar/bin/Debug/MediaEscolar.exe
+/Users/reginaldomorikawa/Documents/Curso Senac Mobile/Projetos/MediaEscolar/bin/Debug/MediaEscolar.pdb
+/Users/reginaldomorikawa/Documents/Curso Senac Mobile/Projetos/MediaEscolar/obj/x86/Debug/MediaEscolar.exe
+/Users/reginaldomorikawa/Documents/Curso Senac Mobile/Projetos/MediaEscolar/obj/x86/Debug/MediaEscolar.pdb
